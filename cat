@@ -158,14 +158,6 @@
      #酒店$https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
      #港台m3u$http://www.stream-link.org/stream-link.m3u
      #16w-MTV$https://raw.githubusercontent.com/PHDown/16W_MTV/main/%E5%BD%B1%E8%A7%86/tvb/MTV.txt
-     #天微科技$https://tvkj.top/tvlive.txt
-     #OwenTV$https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.txt
-     #南风$https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
-     #tvlive$https://xhdwc.tk/tvlive.txt
-     #饭太硬$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt
-     #影视范$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u
-     #俊于$http://home.jundie.top:81/Cat/tv/live.txt
-     #菜菜$http://ht.grelighting.cn/html/zb.txt
      #KTV$https://qu.ax/pQBZ.TXT"
  },
  {
@@ -176,9 +168,10 @@
     "ext":"厦新金曲$https://jihulab.com/owen2000wy/owentv/-/raw/main/xxjq.txt
     #电台$https://pastebin.com/raw/MeV51nKS
     #MV$https://pastebin.com/raw/VdHwQRgt
+    #16w-MTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
     #厦新MTV$https://jihulab.com/owen2000wy/owentv/-/raw/main/xxmtv.txt
-    #厦新金曲SVCD$https://jihulab.com/owen2000wy/owentv/-/raw/main/xxjqsvcd.txt&&&https://api.caonm.net/api/mc/"
-    #16w-MTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt,
+    #厦新金曲SVCD$https://jihulab.com/owen2000wy/owentv/-/raw/main/xxjqsvcd.txt&&&https://api.caonm.net/api/mc/",
+   
    "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;A98B4051E372CC7AE6D6EE03B61B0FFB" 
  },
 
