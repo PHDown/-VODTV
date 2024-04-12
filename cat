@@ -138,7 +138,16 @@
       "changeable": 0,
       "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-26/2024-03-26_15:19:15/1711437555116/69560144/wex.txt;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
     },
- 
+ {
+     "key":"live",
+     "name":"💻直播转点播",
+     "type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js",
+     "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
+     #Peter2$https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt
+     #Peter3$https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt
+     #FongMi$https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt
+     #Gaotian$https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
+  }, 
  {
        "key": "直播转点播",
        "name": "📺︎MTV点播",
