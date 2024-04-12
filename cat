@@ -141,12 +141,11 @@
  {
      "key":"live",
      "name":"💻直播转点播",
-     "type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js",
+     "type":3,"api":"https://raw.githubusercontent.com/PHDown/-/main/live-vod.js",
      "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
-     #Peter2$https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05152.txt
-     #Peter3$https://ghproxy.com/https://raw.githubusercontent.com/c120487/00/main/00live05153.txt
-     #FongMi$https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt
-     #Gaotian$https://ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/listx.txt"
+     #港台m3u$http://www.stream-link.org/stream-link.m3u
+     #MTV$https://raw.githubusercontent.com/PHDown/MTV/main/MTV
+     #DJMV$https://qu.ax/VDGD.TXT"
   }, 
  {
        "key": "直播转点播",
