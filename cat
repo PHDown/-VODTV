@@ -140,23 +140,14 @@
     },
  {
      "key":"live",
-     "name":"💻直播转点播",
+     "name":"📺︎MTV点播",
      "type":3,"api":"https://raw.githubusercontent.com/PHDown/-/main/live-vod.js",
      "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
      #港台m3u$http://www.stream-link.org/stream-link.m3u
      #MTV$https://raw.githubusercontent.com/PHDown/MTV/main/MTV
+     #16w-MTV$https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
      #DJMV$https://qu.ax/VDGD.TXT"
   }, 
- {
-       "key": "直播转点播",
-       "name": "📺︎MTV点播",
-       "type": 3,
-       "api": "https://qu.ax/bCaA.js",
-       "searchable": 1,
-       "quickSearch": 0,
-       "filterable": 0,
-       "ext": "https://pastebin.com/raw/VFyeSQvk"
-  },
  {
      "key":"直播",
      "name":"📺电视直播",
