@@ -141,7 +141,7 @@
  {
      "key":"live",
      "name":"📺︎MTV点播",
-     "type":3,"api":"https://raw.githubusercontent.com/PHDown/-/main/live-vod.js",
+     "type":3,"api":"https://github.com/c120487/00/raw/main/api/直播转点播.js",
      "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
      #港台m3u$http://www.stream-link.org/stream-link.m3u
      #MTV$https://raw.githubusercontent.com/PHDown/MTV/main/MTV
@@ -156,6 +156,7 @@
      "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
      #酒店$https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
      #港台m3u$http://www.stream-link.org/stream-link.m3u
+     #电台$https://pastebin.com/raw/MeV51nKS
      #16w-MTV$https://raw.githubusercontent.com/PHDown/16W_MTV/main/%E5%BD%B1%E8%A7%86/tvb/MTV.txt
      #KTV$https://qu.ax/pQBZ.TXT"
  },
