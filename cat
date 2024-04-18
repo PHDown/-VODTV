@@ -609,6 +609,24 @@
       "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06;md5;5543dae038ce2248e7759e9cbca295b9", 
       "cookie": "buvid3=8B57D3BA-607A-1E85-018A-E8C430023CED42659infoc; b_lsid=BEB8EE7F_18742FF8C2E; bsource=search_baidu; _uuid=DE810E367-B52C-AF6E-A612-EDF4C31567F358591infoc; b_nut=100; buvid_fp=711a632b5c876fa8bbcf668c1efba551; SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7; sid=5h4ruv6o; buvid4=978E9208-13DA-F87A-3DC0-0B8EDF46E80434329-123040301-dWliG5BMrUb70r3g583u7w%3D%3D"
     },
+ { 
+    "key": "Wexduanjuvop",
+    "name": "🌸短劇┃秒播┃直连",
+    "type": 3,
+    "api": "csp_Wexduanjuvop",
+    "searchable": 1,
+    "changeable": 1,
+    "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-15/2024-04-15_15:08:31/1713164911747/77541936/wex.txt;md5;18eedce2077dc99c909607aa71ff50ac"
+  },
+  {
+    "key": "Wexduanjuvmp",
+    "name": "🌸短劇┃极品┃直连",
+    "type": 3,
+    "api": "csp_Wexduanjuvmp",
+    "searchable": 1,
+    "changeable": 1,
+    "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-04-15/2024-04-15_15:08:31/1713164911747/77541936/wex.txt;md5;18eedce2077dc99c909607aa71ff50ac"
+  },
    {
       "key": "本地",
       "name": "本地",
