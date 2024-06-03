@@ -18,17 +18,16 @@
     "type": 0
  },
  {
-    "name":"唐三直播",
+    "name":"UBLive",
     "type":0,
-    "url":"https://tang.serv00.net/zb/99?token=e00d037b",
+    "url":"https://pastebin.com/raw/qPfdxAsc",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
-
  {
-    "name":"小小TV直播",
+    "name":"SmartTV",
     "type":0,
-    "url":"https://raw.githubusercontent.com/SSM0415/apptest/main/TVonline.txt",
+    "url":"https://pastebin.com/raw/zFSuMq1Y",
     "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
     "logo":"https://epg.112114.xyz/logo/{name}.png"
  },
@@ -46,11 +45,7 @@
    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
    "logo": "https://epg.112114.xyz/logo/{name}.png"
   },
- {
-	"name": "全球电视",
-	"url": "http://abc123.digital:8080/get.php?username=lillie.johnson11@gmail.com&password=r3yUNMHHwr&type=m3u_plus",
-    "type": 0
-  },
+ 
  {
 	"name": "KTV",
 	"url": "https://qu.ax/pQBZ.TXT",
@@ -118,7 +113,7 @@
       "api": "csp_WexIktv",
       "searchable": 1,
       "changeable": 0,
-     "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-26/2024-03-26_15:19:15/1711437555116/69560144/wex.txt;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt;md5;2b8839cfc91947439503fb55325e758f"
  },
  {
       "key": "Wexqingfengdj",
@@ -127,8 +122,8 @@
       "api": "csp_Wexqingfengdj",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-26/2024-03-26_15:19:15/1711437555116/69560144/wex.txt;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
-    },
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt;md5;2b8839cfc91947439503fb55325e758f"
+ },
  {
       "key": "Yinyuetai",
       "name": "🎸音悦台┃音乐┃MV",
@@ -136,8 +131,8 @@
       "api": "csp_WexYinyuetai",
       "searchable": 1,
       "changeable": 0,
-      "jar":"https://cc-im-kefu-cos.7moor-fs2.com/im/2768a390-5474-11ea-afc9-7b323e3e16c0/d4fe44c5-107c-4511-af02-aa08fb10dff7/2024-03-26/2024-03-26_15:19:15/1711437555116/69560144/wex.txt;md5;1a93958bfdeb969dbdfd3478e7f8b61e"
-    },
+      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1717257186426/wex.txt;md5;2b8839cfc91947439503fb55325e758f"
+ },
  {
      "key":"live",
      "name":"📺︎MTV点播",
@@ -155,7 +150,12 @@
      "type":3,
      "api":"https://jihulab.com/owen2000wy/owentv/-/raw/main/%E7%9B%B4%E6%92%AD%E8%BD%AC%E7%82%B9%E6%92%AD.js",
      "ext":"大少$https://raw.githubusercontent.com/PHDown/Live/main/LiveTV.txt
-     #安博$https://tang.serv00.net/zb/99?token=30d28fe8
+     #YouTube$https://qu.ax/ekxr.md
+     #4GTV$http://debian.52sw.top:1983/4gtv.m3u
+     #LITV$http://debian.52sw.top:678/iptv/tz-litv2.txt
+     #SmartTV$http://fm1077.serv00.net/Smart.m3u
+     #SamsungTVPlus$https://i.mjh.nz/SamsungTVPlus/all.m3u8
+     #安博$https://pastebin.com/raw/qPfdxAsc
      #酒店$https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
      #港台m3u$http://www.stream-link.org/stream-link.m3u
      #电台$https://pastebin.com/raw/MeV51nKS
@@ -356,16 +356,7 @@
       "changeable": 0,
       "ext": ""
     },
-   {
-       "key": "安博",
-       "name": "安博",
-       "type": 4,
-       "api": "https://tang.serv00.net/power/ub1818?token=e00d037b",
-       "searchable": 0,
-       "quickSearch": 0,
-       "filterable": 1,
-       "changeable": 0
-    },
+  
    {
       "key": "haiwaikan",
       "name": "海外看",
